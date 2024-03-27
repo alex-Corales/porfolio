@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    background-color: #fff;
+    color: white;
+}
+
+.tarjeta {
+    background-color: #6ac;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px 10px;
+    box-shadow: 0px 0px 30px #0006;
+    border-radius: 8px;
+}
+
+.tarjeta_presentacion {
+    border-bottom-style: solid;
+    border-width: 1px;
+}
+
+.tarjeta_estudios {
+    border-bottom-style: solid;
+    border-width: 1px;
+}
+
+.tarjeta_experienciaLaboral {
+    border-bottom-style: solid;
+    border-width: 1px;
+}
+
+h1 {
+    font-size: 22px;
+    margin: 0;
+}
+
+.h2_presentacion {
+    font-size: 13px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin: 0;
+}
+
+img {
+    height: 150px;
+    border-radius: 500%;
+}
